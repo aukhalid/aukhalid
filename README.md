@@ -96,3 +96,14 @@
 </div>
 
 ###
+<!-- Top Languages Card -->
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aukhalid&theme=dark&hide_border=false&layout=compact" 
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aukhalid&theme=light&hide_border=false&layout=compact" 
+    alt="Top Languages" />
+</picture>
+
+###
