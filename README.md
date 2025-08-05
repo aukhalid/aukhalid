@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate self-taught developer with a background in ETE from CUET. My journey into tech began with creativity: I founded AshesToFlame Records, Bangladesh’s first-ever EDM record label, during my college days, which later landed a distribution deal with Sony Music’s distributor, The Orchard. 🎧<br><br>Though I shifted focus to pursue engineering full-time, that experience taught me a lot about entrepreneurship, leadership, and project management — skills I now bring into my software engineering journey with web development.<br><br>Currently, I’m diving deep into front & back end web development, sharpening my skills in:</p>
+<p align="left">A passionate engineer with a background in ETE from CUET. My journey into tech began with creativity: I founded AshesToFlame Records, Bangladesh’s first-ever EDM record label, during my college days, which later landed a distribution deal with Sony Music’s distributor, The Orchard. 🎧<br><br>Though I shifted focus to pursue engineering full-time, that experience taught me a lot about entrepreneurship, leadership, and project management — skills I now bring into my engineering journey with VLSI, Hardware development, software development etc.<br><br>Currently, I’m diving deep into front & back end hardware development, sharpening my skills in VLSI field:</p>
 
 ###
 
@@ -24,58 +24,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
-
-###
-
-<h3 align="left">Frontend Frameworks:</h3>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs logo"  />
-</div>
-
-###
-
-<h3 align="left">Backend Frameworks:</h3>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
-
-###
-
-<h3 align="left">Database & Cloud:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
 </div>
 
 ###
