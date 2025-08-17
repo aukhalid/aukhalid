@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate engineer with a background in ETE from CUET. My journey into tech began with creativity: I founded AshesToFlame Records, Bangladesh’s first-ever EDM record label, during my college days, which later landed a distribution deal with Sony Music’s distributor, The Orchard. 🎧<br><br>Though I shifted focus to pursue engineering full-time, that experience taught me a lot about entrepreneurship, leadership, and project management — skills I now bring into my engineering journey with VLSI, Hardware development, software development etc.<br><br>Currently, I’m diving deep into front & back end hardware development, sharpening my skills in VLSI field:</p>
+<p align="left">A passionate Electronics Engineer with a background in ETE from CUET. My journey into tech began with creativity: I founded AshesToFlame Records, Bangladesh’s first-ever EDM record label, during my college days, which later landed a distribution deal with Sony Music’s distributor, The Orchard. <br><br>Though I shifted focus to pursue engineering full-time, that experience taught me a lot about entrepreneurship, leadership, and project management — skills I now bring into my engineering journey with VLSI, Hardware development, software development etc.<br><br>Currently, I’m diving deep into front & back end hardware development, sharpening my skills in VLSI field:</p>
 
 ###
 
