@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate Electronics Engineer with a background in ETE from CUET. My journey into tech began with creativity: I founded AshesToFlame Records, Bangladesh’s first-ever EDM record label, during my college days, which later landed a distribution deal with Sony Music’s distributor, The Orchard. <br><br>Though I shifted focus to pursue engineering full-time, that experience taught me a lot about entrepreneurship, leadership, and project management — skills I now bring into my engineering journey with VLSI, Hardware development, software development etc.<br><br>Currently, I’m diving deep into front & back end hardware development, sharpening my skills in VLSI field:</p>
+<p align="left">A passionate Electronics & VLSI Engineer with a background in ETE from CUET. My journey into tech began with creativity: I founded AshesToFlame Records, Bangladesh’s first-ever EDM record label, during my college days, which later landed a distribution deal with Sony Music’s distributor, The Orchard. <br><br>Though I shifted focus to pursue engineering full-time, that experience taught me a lot about entrepreneurship, leadership, and project management — skills I now bring into my engineering journey with VLSI, Hardware development, software development etc.<br><br>Currently, I’m diving deep into front & back end hardware development, sharpening my skills in VLSI field:</p>
 
 
 ###
@@ -56,16 +56,5 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
-<!-- Top Languages Card -->
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aukhalid&theme=dark&hide_border=false&layout=compact" 
-    media="(prefers-color-scheme: dark)" />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aukhalid&theme=light&hide_border=false&layout=compact" 
-    alt="Top Languages" />
-</picture>
 
 ###
