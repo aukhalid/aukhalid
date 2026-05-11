@@ -11,7 +11,6 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Cadence%20Virtuoso-BB2222?style=for-the-badge&logoColor=white" height="35" alt="Cadence Virtuoso" />
-    <img src="https://img.shields.io/badge/Quartus%20II-0071C5?style=for-the-badge&logoColor=white" height="35" alt="Vivado" />
   <img src="https://img.shields.io/badge/Quartus%20II-0071C5?style=for-the-badge&logoColor=white" height="35" alt="Quartus II" />
   <img src="https://img.shields.io/badge/Logisim%20Evolution-FF6600?style=for-the-badge&logoColor=white" height="35" alt="Logisim Evolution" />
   <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logoColor=white" height="35" alt="MATLAB" />
