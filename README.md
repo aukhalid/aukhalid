@@ -1,16 +1,27 @@
-## Hi there, I'm Ahasan! 👋 
+# Hi there, I'm Khalid 👋
 
-I am a hardware description enthusiast and researcher deeply passionate about **VLSI Design, Computer Architecture, and Digital System Design**. 
+**RTL Design & Verification Engineer | VLSI Enthusiast | RISC-V | FPGA | RTL-to-GDSII ASIC Design**
 
-- 🚀 **Industry:** RTL Design & Verification Engineer at **ADN Semiconductors Ltd.**
-- 🎓 **Academia:** Part-Time VLSI Lecturer at **MIU**
-- 🧠 **Thesis Project:** Built a custom 32-bit pipelined RISC-V SoC with an integrated IPU & TinyML extension for edge vision AI acceleration.
-- 🔬 **Research:** Published in hardware design and arithmetic optimization. Check out my recent IEEE paper: [IEEE Xplore Link](https://ieeexplore.ieee.org/document/11546263)
+I am a hardware engineer obsessed with pushing the boundaries of computer architecture, silicon design, and edge AI. I recently graduated from CUET (B.Sc. ETE, VLSI Major) and am currently building digital systems at **ADN Semiconductors** and teaching VLSI at **MIU**. 
 
-### 🛠️ Core Tech Stack
-- **HDLs:** Verilog, SystemVerilog
-- **Architectures:** RISC-V, Custom Cores, Co-processors
-- **Domains:** RTL Design, Logic Verification, Hardware Accelerators, Edge AI
+Whether it's writing Verilog, running physical design scripts, or wiring up a core of RISC-V, I love seeing logic gates come to life. 
+
+### 🔬 What I'm working on
+* **EVPIX-RV32 (Custom RISC-V SoC):** My flagship project. A 32-bit, 5-stage pipelined RISC-V processor integrated with an IPU and TinyML for real-time edge vision AI. 
+    * *Status:* Verified via real FPGA prototyping and pushed through a complete **RTL-to-GDSII** ASIC CMOS layout using the OpenROAD flow script.
+* **Sub-Micron CMOS Research:** Published IEEE author on power and propagation delay benchmarking for hardware adders in 90nm technology. [Read my paper here](https://ieeexplore.ieee.org/document/11546263).
+
+### 🛠️ Hardware & Tools Stack
+* **HDLs & Design:** Verilog, SystemVerilog
+* **Architecture:** RISC-V, Pipelined CPUs, Custom Accelerators (IPU/TinyML)
+* **EDA & Physical Design:** Vivado,OpenROAD Flow (RTL-to-GDSII), Yosys, KLayout, Cadence Virtuoso
+* **Simulation & Prototyping:** FPGA, Logisim, Testbench Verification
+
+### 📈 Academic Highlights
+* **B.Sc. from CUET:** Major in VLSI (Final Year CGPA: 3.78)
+* Secured **A+** in all Advanced VLSI Design courses.
+
+📫 **Let's Connect!** Find me on LinkedIn or dive into my repositories below.
 
 
 ###
