@@ -31,21 +31,16 @@ Whether it's writing Verilog, running physical design scripts, or wiring up a co
 <div align="left">
   <!-- Existing Core Tools -->
   <img src="https://img.shields.io/badge/Cadence%20Virtuoso-BB2222?style=for-the-badge&logoColor=white" height="35" alt="Cadence Virtuoso" />
-  <img src="https://img.shields.io/badge/Quartus%20II-0071C5?style=for-the-badge&logoColor=white" height="35" alt="Quartus II" />
-  <img src="https://img.shields.io/badge/Logisim%20Evolution-FF6600?style=for-the-badge&logoColor=white" height="35" alt="Logisim Evolution" />
-  <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logoColor=white" height="35" alt="MATLAB" />
-  
-  <!-- FPGA & Verification -->
   <img src="https://img.shields.io/badge/Xilinx%20Vivado-232F3E?style=for-the-badge&logoColor=white" height="35" alt="Xilinx Vivado" />
   <img src="https://img.shields.io/badge/Verilator-F4C20D?style=for-the-badge&logoColor=black" height="35" alt="Verilator" />
   <img src="https://img.shields.io/badge/GTKWave-008080?style=for-the-badge&logoColor=white" height="35" alt="GTKWave" />
-
-  <!-- OpenROAD ASIC Flow -->
   <img src="https://img.shields.io/badge/OpenROAD%20Flow-4B0082?style=for-the-badge&logoColor=white" height="35" alt="OpenROAD Flow" />
   <img src="https://img.shields.io/badge/Yosys-555555?style=for-the-badge&logoColor=white" height="35" alt="Yosys" />
   <img src="https://img.shields.io/badge/KLayout-2BA977?style=for-the-badge&logoColor=white" height="35" alt="KLayout" />
   <img src="https://img.shields.io/badge/Magic%20VLSI-800000?style=for-the-badge&logoColor=white" height="35" alt="Magic VLSI" />
   <img src="https://img.shields.io/badge/OpenSTA-4682B4?style=for-the-badge&logoColor=white" height="35" alt="OpenSTA" />
+  <img src="https://img.shields.io/badge/Logisim%20Evolution-FF6600?style=for-the-badge&logoColor=white" height="35" alt="Logisim Evolution" />
+  <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logoColor=white" height="35" alt="MATLAB" />
 </div>
 
 
@@ -68,7 +63,6 @@ Whether it's writing Verilog, running physical design scripts, or wiring up a co
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" height="35" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="35" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="35" alt="Express.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="35" alt="FastAPI" />
 </div>
 
 
