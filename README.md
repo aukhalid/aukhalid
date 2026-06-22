@@ -1,8 +1,16 @@
-<h2 align="left">Hi, I'm Khalid!!</h2>
+## Hi there, I'm Ahasan! 👋 
 
-###
+I am a hardware description enthusiast and researcher deeply passionate about **VLSI Design, Computer Architecture, and Digital System Design**. 
 
-<p align="left">A passionate Electronics & VLSI Engineer with a background in ETE from CUET. My journey into tech began with creativity: I founded AshesToFlame Records, Bangladesh’s first-ever EDM record label, during my college days, which later landed a distribution deal with Sony Music’s distributor, The Orchard. <br><br>Though I shifted focus to pursue engineering full-time, that experience taught me a lot about entrepreneurship, leadership, and project management — skills I now bring into my engineering journey with VLSI, Hardware development, software development etc.<br><br>Currently, I’m diving deep into front & back end hardware development, sharpening my skills in VLSI field:</p>
+- 🚀 **Industry:** RTL Design & Verification Engineer at **ADN Semiconductors Ltd.**
+- 🎓 **Academia:** Part-Time VLSI Lecturer at **MIU**
+- 🧠 **Thesis Project:** Built a custom 32-bit pipelined RISC-V SoC with an integrated IPU & TinyML extension for edge vision AI acceleration.
+- 🔬 **Research:** Published in hardware design and arithmetic optimization. Check out my recent IEEE paper: [IEEE Xplore Link](https://ieeexplore.ieee.org/document/11546263)
+
+### 🛠️ Core Tech Stack
+- **HDLs:** Verilog, SystemVerilog
+- **Architectures:** RISC-V, Custom Cores, Co-processors
+- **Domains:** RTL Design, Logic Verification, Hardware Accelerators, Edge AI
 
 
 ###
