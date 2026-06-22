@@ -19,7 +19,7 @@ Whether it's writing Verilog, running physical design scripts, or wiring up a co
 * **HDLs & Design:** Verilog, SystemVerilog
 * **Architecture:** RISC-V, Pipelined CPUs, Custom Accelerators (IPU/TinyML)
 * **EDA & Physical Design:** Vivado,OpenROAD Flow (RTL-to-GDSII), Yosys, KLayout, Cadence Virtuoso
-* **Simulation & Prototyping:** FPGA, Logisim, Testbench Verification
+* **Simulation & Prototyping:** FPGA, Testbench Verification, BIST, UVM, Logisim
 
 ###
 
