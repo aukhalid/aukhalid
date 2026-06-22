@@ -6,23 +6,20 @@ I am a hardware engineer obsessed with pushing the boundaries of computer archit
 
 Whether it's writing Verilog, running physical design scripts, or wiring up a core of RISC-V, I love seeing logic gates come to life. 
 
-### 🔬 What I'm working on
+### Research Projects Highlights
 * **EVPIX-RV32 (Custom RISC-V SoC):** My flagship project. A 32-bit, 5-stage pipelined RISC-V processor integrated with an IPU and TinyML for real-time edge vision AI. 
-    * *Status:* Verified via real **Basys-3 AMD Artix-7 FPGA prototyping** and pushed through a complete **RTL-to-GDSII ASIC CMOS layout** using the **OpenROAD Flow Script**.
+    * Status:* Verified via real **Basys-3 AMD Artix-7 FPGA prototyping** and pushed through a complete **RTL-to-GDSII ASIC CMOS layout** using the **OpenROAD Flow Script**.
 * **Sub-Micron CMOS Research:** Published IEEE author on power and propagation delay benchmarking for hardware adders in 90nm technology. [Read my paper here](https://ieeexplore.ieee.org/document/11546263).
 
-### 🛠️ Hardware & Tools Stack
+### Academic Highlights
+* **B.Sc. from CUET:** ETE Graduate. Major in Electronics, VLSI (Final Year CGPA: 3.78)
+* Secured **A+** in all Advanced VLSI Design courses.
+
+### Hardware & Tools Stack
 * **HDLs & Design:** Verilog, SystemVerilog
 * **Architecture:** RISC-V, Pipelined CPUs, Custom Accelerators (IPU/TinyML)
 * **EDA & Physical Design:** Vivado,OpenROAD Flow (RTL-to-GDSII), Yosys, KLayout, Cadence Virtuoso
 * **Simulation & Prototyping:** FPGA, Logisim, Testbench Verification
-
-### 📈 Academic Highlights
-* **B.Sc. from CUET:** Major in VLSI (Final Year CGPA: 3.78)
-* Secured **A+** in all Advanced VLSI Design courses.
-
-📫 **Let's Connect!** Find me on LinkedIn or dive into my repositories below.
-
 
 ###
 
