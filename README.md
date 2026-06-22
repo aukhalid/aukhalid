@@ -29,7 +29,6 @@ Whether it's writing Verilog, running physical design scripts, or wiring up a co
   <!-- Existing Core Tools -->
   <img src="https://img.shields.io/badge/Cadence%20Virtuoso-BB2222?style=for-the-badge&logoColor=white" height="35" alt="Cadence Virtuoso" />
   <img src="https://img.shields.io/badge/Xilinx%20Vivado-232F3E?style=for-the-badge&logoColor=white" height="35" alt="Xilinx Vivado" />
-  <img src="https://img.shields.io/badge/Verilator-F4C20D?style=for-the-badge&logoColor=black" height="35" alt="Verilator" />
   <img src="https://img.shields.io/badge/GTKWave-008080?style=for-the-badge&logoColor=white" height="35" alt="GTKWave" />
   <img src="https://img.shields.io/badge/OpenROAD%20Flow-4B0082?style=for-the-badge&logoColor=white" height="35" alt="OpenROAD Flow" />
   <img src="https://img.shields.io/badge/Yosys-555555?style=for-the-badge&logoColor=white" height="35" alt="Yosys" />
@@ -47,7 +46,7 @@ Whether it's writing Verilog, running physical design scripts, or wiring up a co
 
 <div align="left">
   <img src="https://img.shields.io/badge/Verilog%20HDL-FF3F00?style=for-the-badge&logoColor=white" height="35" alt="Verilog HDL" />
-  <img src="https://img.shields.io/badge/VHDL-4B0082?style=for-the-badge&logoColor=white" height="35" alt="VHDL" />
+  <img src="https://img.shields.io/badge/SystemVerilog-4B0082?style=for-the-badge&logoColor=white" height="35" alt="SystemVerilog" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="35" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" alt="Python" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="35" alt="React" />
