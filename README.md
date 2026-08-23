@@ -37,28 +37,18 @@ Whether it's writing SystemVerilog, building UVM environments, or making a RISC-
 
 ### 📄 Publications
 
-- A. U. Khalid, A. Tabassum, A. I. Rupom, M. F. Hossain and M. A. Hossain, **"Design and Performance Comparison of 4-bit Ripple-Carry and Carry-Look-Ahead Adder in 90-nm CMOS VLSI Technology"** — *2nd IEEE QPAIN, April 2026.* · [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11546263)
+- A. U. Khalid, A. Tabassum, A. I. Rupom, M. F. Hossain and M. A. Hossain, **"Design and Performance Comparison of 4-bit Ripple-Carry and Carry-Look-Ahead Adder in 90-nm CMOS VLSI Technology"** - *2nd IEEE QPAIN, April 2026.* · [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11546263)
 
 ---
 
 ### 🎓 Education
 
-**Chittagong University of Engineering and Technology (CUET)** — B.Sc. ETE, VLSI Major · 2022–2026
+**Chittagong University of Engineering and Technology (CUET)** - B.Sc. ETE, VLSI Major · 2022–2026
 - Final Year CGPA: 3.78/4.00 · A+ in all Advanced VLSI Design courses
 
-**Dhaka College** — HSC, Science · GPA: 5.0/5.0, General Government Scholarship
+**Dhaka College** - HSC, Science · GPA: 5.0/5.0, General Government Scholarship
 
-**Ideal School and College, Motijheel** — SSC, Science · GPA: 5.0/5.0, Talent Pool Government Scholarship
-
----
-
-### 🏋️ Training
-
-**Unive VLSI Mentorship Training Program** · October 2025 – February 2026
-- Full VLSI training covering Digital Logic, VLSI, Analog & Digital IC Design.
-
-**Teletalk Bangladesh Ltd.** · April – May 2025
-- Industrial attachment on circuit switching and packet switching networking.
+**Ideal School and College, Motijheel** - SSC, Science · GPA: 5.0/5.0, Talent Pool Government Scholarship
 
 ---
 
@@ -75,17 +65,11 @@ Whether it's writing SystemVerilog, building UVM environments, or making a RISC-
 ### 🛠️ Hardware & Tools Stack
  
 **HDLs & Design:** Verilog, SystemVerilog, SVA, UVM
- 
 **Architecture:** RISC-V, Pipelined CPUs, AMBA (AXI4, APB), UART/SPI/I2C, DDR3, Custom Accelerators (IPU/TinyML)
- 
-**EDA & Physical Design:** Vivado, OpenROAD Flow (RTL-to-GDSII), Yosys, OpenSTA, KLayout, Magic VLSI, Cadence Virtuoso
- 
+**EDA & Physical Design:** Vivado, OpenROAD Flow (RTL-to-GDSII), Yosys, OpenSTA, KLayout, Magic VLSI, Cadence Virtuoso 
 **Simulation & Verification:** XSim, GTKWave, Verilator, UVM, SVA, Functional Coverage, Constrained-Random
- 
 **PDKs:** SkyWater 130-nm (Sky130), Cadence GPDK 90-nm, ASAP7 7-nm FinFET
- 
 **Platforms:** AMD Xilinx Basys 3 Artix-7 FPGA, Tang Nano 9K, ESP32
- 
 **Scripting & Automation:** Python, C/C++, Bash, GNU Make, Git, Linux
  
 ---
