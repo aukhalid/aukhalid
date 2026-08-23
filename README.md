@@ -64,13 +64,13 @@ Whether it's writing SystemVerilog, building UVM environments, or making a RISC-
 
 ### 🛠️ Hardware & Tools Stack
  
-**HDLs & Design:** Verilog, SystemVerilog, SVA, UVM
-**Architecture:** RISC-V, Pipelined CPUs, AMBA (AXI4, APB), UART/SPI/I2C, DDR3, Custom Accelerators (IPU/TinyML)
-**EDA & Physical Design:** Vivado, OpenROAD Flow (RTL-to-GDSII), Yosys, OpenSTA, KLayout, Magic VLSI, Cadence Virtuoso 
-**Simulation & Verification:** XSim, GTKWave, Verilator, UVM, SVA, Functional Coverage, Constrained-Random
-**PDKs:** SkyWater 130-nm (Sky130), Cadence GPDK 90-nm, ASAP7 7-nm FinFET
-**Platforms:** AMD Xilinx Basys 3 Artix-7 FPGA, Tang Nano 9K, ESP32
-**Scripting & Automation:** Python, C/C++, Bash, GNU Make, Git, Linux
+- **HDLs & Design:** Verilog, SystemVerilog, SVA, UVM
+- **Architecture:** RISC-V, Pipelined CPUs, AMBA (AXI4, APB), UART/SPI/I2C, DDR3, Custom Accelerators (IPU/TinyML)
+- **EDA & Physical Design:** Vivado, OpenROAD Flow (RTL-to-GDSII), Yosys, OpenSTA, KLayout, Magic VLSI, Cadence Virtuoso 
+- **Simulation & Verification:** XSim, GTKWave, Verilator, UVM, SVA, Functional Coverage, Constrained-Random
+- **PDKs:** SkyWater 130-nm (Sky130), Cadence GPDK 90-nm, ASAP7 7-nm FinFET
+- **Platforms:** AMD Xilinx Basys 3 Artix-7 FPGA, Tang Nano 9K, ESP32
+- **Scripting & Automation:** Python, C/C++, Bash, GNU Make, Git, Linux
  
 ---
  
