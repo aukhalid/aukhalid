@@ -8,11 +8,11 @@ I am a hardware engineer obsessed with pushing the boundaries of computer archit
 
 ### 💼 Work Experience
 
-**[ADN Semiconductors Ltd.](https://github.com/ADN-VLSI)** - *Intern, RTL Design & Verification Engineer* · June 2026 – Present
+**[ADN Semiconductors Ltd.](https://github.com/ADN-VLSI)** - *Trainee Engineer, RTL Design & Verification Engineer* · June 2026 – Present
 - Hands-on RTL design & verification across APB-UART, SPI, AXI4, DDR3, and RISC-V blocks in Verilog/SystemVerilog.
 - Developed custom testbenches using AMD Xilinx Vivado & GTKWave; automated workflows via Makefiles in Linux.
 
-**[Manarat International University (MIU)](https://manarat.ac.bd)** - *VLSI Lecturer (Part-Time)* · May 2026 – Present
+**[Manarat International University (MIU)](https://manarat.ac.bd)** - *Lecturer (Part-Time)* · May 2026 – Present
 - Delivering VLSI Design lectures and practical sessions for the EEE Department; developing quizzes, exams, and assessments.
 ---
 
