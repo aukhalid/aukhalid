@@ -38,26 +38,6 @@ I am a hardware engineer obsessed with pushing the boundaries of computer archit
 
 ---
 
-### 🎓 Education
-
-**Chittagong University of Engineering and Technology (CUET)** - B.Sc. ETE, VLSI Major · 2022–2026
-- Final Year CGPA: 3.78/4.00 · A+ in all Advanced VLSI Design courses
-
-**Dhaka College** - HSC, Science · GPA: 5.0/5.0, General Government Scholarship
-
-**Ideal School and College, Motijheel** - SSC, Science · GPA: 5.0/5.0, Talent Pool Government Scholarship
-
----
-
-### 🏆 Extracurricular & Leadership
-
-- **CUET Chess Club** - President · July 2025–Present · Organized tournaments and hosted regular sessions.
-- **AshesToFlame Records** - Founder / Co-Owner · 2019–2023 · Music production, release workflow, branding, and artist management.
-- **ETE Televerse 1.0** - Branding & Promotion Head · Nov 2025 · 200K+ social media impressions; produced the theme song *"[Eksathe](https://youtu.be/NkrIc-r-GP0?si=KMClaCSv3CbdAS34)"*.
-- **CUET Debating Society** - Debater · 2022–2025 · Runners-up, Inter Department Debate Competition 2022.
-
----
-
 
 ### 🛠️ Hardware & Tools Stack
  
