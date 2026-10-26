@@ -1,6 +1,6 @@
 # Hi there, I'm Khalid 👋
 
-**RTL Design & Verification Engineer | VLSI | RISC-V | AMBA Protocols | UVM | FPGA ! RTL-to-GDSII ASIC Design**
+**Crafting art into molten sand**
 
 I am a hardware engineer obsessed with pushing the boundaries of computer architecture, silicon design, and edge AI. I graduated from CUET (B.Sc. ETE, VLSI Major) and am currently building digital systems at **ADN Semiconductors** and teaching VLSI at **MIU**. I love seeing logic gates come to life.
 
