@@ -2,7 +2,7 @@
 
 **Crafting art into molten sand**
 
-I am a hardware engineer obsessed with pushing the boundaries of computer architecture, silicon design, and edge AI. I graduated from CUET (B.Sc. ETE, VLSI Major) and am currently building digital systems at **ADN Semiconductors** and teaching VLSI at **MIU**. I love seeing logic gates come to life.
+I am a silicon enthusiast and hardware engineer deeply passionate about the entire VLSI design, from microarchitecture and RTL to IC Physical Design and tape-out.
 
 ---
 
