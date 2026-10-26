@@ -16,7 +16,7 @@ I am a hardware engineer obsessed with pushing the boundaries of computer archit
 - Delivering VLSI Design lectures and practical sessions for the EEE Department; developing quizzes, exams, and assessments.
 ---
 
-### 🔬 Research & Projects
+### 🔬 Open-Source Projects
 
 **[EVPIX-RV32: Custom RISC-V SoC with IPU & TinyML Accelerator](https://github.com/aukhalid/evpix_rv32)** - My flagship project. A 32-bit, 5-stage pipelined RISC-V (RV32I) processor integrated with an Image Processing Unit (IPU) and TinyML Accelerator for real-time edge-vision AI.
 - Verified via real **Basys-3 AMD Artix-7 FPGA** prototyping.
